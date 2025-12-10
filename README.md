@@ -3,7 +3,7 @@
 
 <br>
 
-# 👋 Hi, I'm YOUR NAME  
+# 👋 Hi, I'm Prabath Wanasinghe  
 ### 🚀 Robotics | Web Developer | Tech Enthusiast
 
 I'm a student developer passionate about building robots, automating things, and creating real-world tech solutions.
@@ -62,10 +62,6 @@ A modern 3D portfolio built with HTML, CSS, and JS.
 
 ---
 
-## 🎉 Fun GIF
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
-
----
 
 ## 📌 Quote
 > “The best way to predict the future is to build it.”
